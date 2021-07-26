@@ -1,0 +1,31 @@
+*{
+  margin: auto;
+  box-sizing: border-box;
+  text-align: center;
+  text-shadow: 2px 2px 8px white;
+}
+html{
+  background-image: url(https://turismo.buenosaires.gob.ar/sites/turismo/files/parque_centenario_caballito_1200_agua_0.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: block;
+}
+
+h1 {
+  color: blue;
+}
+img {
+  width: 400px;
+}
+
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: blue;
+  padding: 50px;
+  border: 1px black solid;
+}
